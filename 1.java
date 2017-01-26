@@ -1,7 +1,6 @@
-ackage com.lambdas.introduction;
+package com.lambdas.introduction;
 
 /**
- *
  * @author pradeep
  */
 public class UserModel {
